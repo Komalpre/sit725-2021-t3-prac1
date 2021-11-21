@@ -1,3 +1,3 @@
 function start(){
-  window.alert("hello world");
+ window.alert("hello world");
 }
